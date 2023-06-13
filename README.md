@@ -8,7 +8,7 @@
 - 💬 Pergunte-me sobre: <strong>Qualquer coisa</strong>
 - 📣 Nós podemos falar em: <strong>Português, Inglês, Japonês e Coreano.</strong>
 
-<a href="#" alt="Gmail">
+<a href="mailto:liphhh@gmail.com" alt="Gmail">
     <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-EMAIL"/></a>
 
   <a href="https://linkedin.com/in/hiury-lima-36844322b" alt="Linkedin">
