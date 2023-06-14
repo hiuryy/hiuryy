@@ -1,6 +1,6 @@
 # Hiury Assis 😉
 
- <strong></strong><strong>Atualmente estou me dedicando a jornada de programador.
+ <strong>Atualmente estou me dedicando a jornada de programador.</strong>
 
 ![goku sayajin 4](https://media.tenor.com/L1cDjAxDr9MAAAAM/breno-bruhzil.gif)
 
