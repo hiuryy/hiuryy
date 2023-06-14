@@ -1,4 +1,4 @@
-# Hiury Assis 😶‍🌫️
+# Hiury Assis 😉
 
  <strong></strong><strong>Atualmente estou me dedicando a jornada de programador.
 
